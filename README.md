@@ -1,7 +1,10 @@
 # 3D-Printed Object Recognition
 
-More information will follow soon...
-
-<video width="1760" height="848" controls>
+<video width="880" height="424" controls>
   <source src="http://cybertron.cg.tu-berlin.de/skoch/m3d/small_objects.mp4" type="video/mp4">
 </video> 
+
+https://skoch9.github.io/3d-object-recognition/
+
+More information will follow soon...
+
