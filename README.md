@@ -4,7 +4,6 @@
   <source src="http://cybertron.cg.tu-berlin.de/skoch/m3d/small_objects.mp4" type="video/mp4">
 </video> 
 
-https://skoch9.github.io/3d-object-recognition/
 
-More information will follow soon...
+More information will follow soon [here](https://skoch9.github.io/3d-object-recognition/).
 
